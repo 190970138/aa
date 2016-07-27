@@ -29,5 +29,10 @@ public class Test extends HttpServlet {
 		
 		request.getRequestDispatcher("disp.jsp").forward(request,response);
 	}
+	
+	
+	public static void main(String[] args) {
+		System.out.println("===========");
+	}
 
 }
