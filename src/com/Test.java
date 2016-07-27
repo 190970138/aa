@@ -12,7 +12,6 @@ public class Test extends HttpServlet {
        
     public Test() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) 
